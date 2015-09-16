@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:05:55.542093
-#+TITLE: 太平經鈔
-#+PROPERTY: DZID  DZ1101a
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—311 十卷 太平部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
